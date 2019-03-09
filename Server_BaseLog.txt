@@ -1,0 +1,932 @@
+I am open for listen
+I am open for listen
+I am open for listen
+I am open for listen
+I am open for listen
+I am open for listen
+Verifying the connection at CONCORDIA Library.
+The ID is connected to right server
+The ID has correct user type
+The ID is connected to right server.
+The ID has vaild user type.
+The ID has vaild user type.
+No new Messages for you. 
+Your options are: 
+1. Press 1 for borrowing an item.
+2. Press 2 for finding an item.
+3. Press 3 for returning an item
+4. Press 4 for exchanging an item you currently own with another one
+0. Press 0 for exit.
+Note: Only select the borrow and remove options if you know the correct item ID.
+Else you can lookup using our find item feature.
+
+Lending history has been updated. 
+The book record is updated. The item has been successfully borrowed by you.
+
+Verifying the connection at CONCORDIA Library.
+The ID is connected to right server
+The ID has correct user type
+The ID is connected to right server.
+The ID has vaild user type.
+The ID has vaild user type.
+No new Messages for you. 
+Your options are: 
+1. Press 1 for borrowing an item.
+2. Press 2 for finding an item.
+3. Press 3 for returning an item
+4. Press 4 for exchanging an item you currently own with another one
+0. Press 0 for exit.
+Note: Only select the borrow and remove options if you know the correct item ID.
+Else you can lookup using our find item feature.
+
+I am open for listen
+I am open for listen
+I am open for listen
+Verifying the connection at CONCORDIA Library.
+The ID is connected to right server
+The ID has correct user type
+The ID is connected to right server.
+The ID has vaild user type.
+The ID has vaild user type.
+No new Messages for you. 
+Your options are: 
+1. Press 1 for borrowing an item.
+2. Press 2 for finding an item.
+3. Press 3 for returning an item
+4. Press 4 for exchanging an item you currently own with another one
+0. Press 0 for exit.
+Note: Only select the borrow and remove options if you know the correct item ID.
+Else you can lookup using our find item feature.
+
+I want to go to Mcgill to borrow my book
+
+UDP for calling the correct server on the client's behalf
+
+The call to the remote server has been made 
+
+I am in MCGILL
+Find the appropriate method to be called and call that using a dummy variable
+Get back the return string convert it to byte and send it back making prefix as B
+I am inside the lending condition
+
+Lending history has been updated you have successfully borrowed. 
+The book record has been updated. 
+
+The found matches on this server B;Lending history has been updated you have successfully borrowed. 
+The book record has been updated. 
+@8081|8082
+I am sending the packet
+I am in CONCORDIA
+I am open for listen
+At the end Lending history has been updated you have successfully borrowed. 
+The book record has been updated. 
+
+I am open for listen
+I am in CONCORDIA
+
+Verifying the connection at CONCORDIA Library.
+The ID is connected to right server
+The ID has correct user type
+The ID is connected to right server.
+The ID has vaild user type.
+The ID has vaild user type.
+No new Messages for you. 
+Your options are: 
+1. Press 1 for borrowing an item.
+2. Press 2 for finding an item.
+3. Press 3 for returning an item
+4. Press 4 for exchanging an item you currently own with another one
+0. Press 0 for exit.
+Note: Only select the borrow and remove options if you know the correct item ID.
+Else you can lookup using our find item feature.
+
+I want to go to Mcgill to check the availability of the book
+
+UDP for calling the correct server on the client's behalf
+
+I am trying to send the return request
+
+The call to the remote server has been made 
+
+I am in MCGILL
+ The item is available 
+
+I am sending the packet
+I am open for listen
+I am in CONCORDIA
+At the end TRUE
+I am open for listen
+I am in CONCORDIA
+
+I want to go to Mcgill to verify the borrow of the book for the requested user
+
+UDP for calling the correct server on the client's behalf
+
+I am trying to send the return request
+
+The call to the remote server has been made 
+
+I am in MCGILL
+ The item is available 
+
+I am sending the packet
+I am open for listen
+I am in CONCORDIA
+At the end TRUE
+I am open for listen
+I am in CONCORDIA
+
+I want to go to Mcgill to return my book
+
+UDP for calling the correct server on the client's behalf
+
+The call to the remote server has been made 
+
+I am in MCGILL
+Find the appropriate method to be called and call that using a dummy variable
+Get back the return string convert it to byte and send it back making prefix as B
+I am after the lendholder check
+The item has been added to the library.
+
+I am sending the packet
+I am open for listen
+I am in CONCORDIA
+At the end Items matching your entry at MCGILL are:
+The item has been added to the library.
+
+I am open for listen
+I am in CONCORDIA
+
+The call to the remote server has been made 
+Items matching your entry at MCGILL are:
+The item has been added to the library.
+
+I want to go to Mcgill to borrow my book
+
+UDP for calling the correct server on the client's behalf
+
+The call to the remote server has been made 
+
+I am in MCGILL
+Find the appropriate method to be called and call that using a dummy variable
+Get back the return string convert it to byte and send it back making prefix as B
+I am inside the lending condition
+
+Lending history has been updated you have successfully borrowed. 
+The book record has been updated. 
+
+The found matches on this server B;Lending history has been updated you have successfully borrowed. 
+The book record has been updated. 
+@8081|8082 MCGILL are:
+The item has been added to the library.
+@8081|8082cessfully borrowed. 
+The book record has been updated. 
+@8081|8082|8082081|8082|8082
+I am sending the packet
+I am open for listen
+I am in CONCORDIA
+At the end Lending history has been updated you have successfully borrowed. 
+The book record has been updated. 
+
+I am open for listen
+I am in CONCORDIA
+
+Verifying the connection at CONCORDIA Library.
+The ID is connected to right server
+The ID has correct user type
+The ID is connected to right server.
+The ID has vaild user type.
+The ID has vaild user type.
+No new Messages for you. 
+Your options are: 
+1. Press 1 for borrowing an item.
+2. Press 2 for finding an item.
+3. Press 3 for returning an item
+4. Press 4 for exchanging an item you currently own with another one
+0. Press 0 for exit.
+Note: Only select the borrow and remove options if you know the correct item ID.
+Else you can lookup using our find item feature.
+
+I am open for listen
+I am open for listen
+I am open for listen
+Verifying the connection at CONCORDIA Library.
+The ID is connected to right server
+The ID has correct user type
+The ID is connected to right server.
+The ID has vaild user type.
+The ID has vaild user type.
+No new Messages for you. 
+Your options are: 
+1. Press 1 for borrowing an item.
+2. Press 2 for finding an item.
+3. Press 3 for returning an item
+4. Press 4 for exchanging an item you currently own with another one
+0. Press 0 for exit.
+Note: Only select the borrow and remove options if you know the correct item ID.
+Else you can lookup using our find item feature.
+
+I want to go to Mcgill to borrow my book
+
+UDP for calling the correct server on the client's behalf
+
+The call to the remote server has been made 
+
+I am in MCGILL
+Find the appropriate method to be called and call that using a dummy variable
+Get back the return string convert it to byte and send it back making prefix as B
+I am inside the lending condition
+
+Lending history has been updated you have successfully borrowed. 
+The book record has been updated. 
+
+The found matches on this server B;Lending history has been updated you have successfully borrowed. 
+The book record has been updated. 
+@8081|8082
+I am sending the packet
+I am in CONCORDIA
+I am open for listen
+At the end Lending history has been updated you have successfully borrowed. 
+The book record has been updated. 
+
+I am open for listen
+I am in CONCORDIA
+
+Verifying the connection at CONCORDIA Library.
+The ID is connected to right server
+The ID has correct user type
+The ID is connected to right server.
+The ID has vaild user type.
+The ID has vaild user type.
+No new Messages for you. 
+Your options are: 
+1. Press 1 for borrowing an item.
+2. Press 2 for finding an item.
+3. Press 3 for returning an item
+4. Press 4 for exchanging an item you currently own with another one
+0. Press 0 for exit.
+Note: Only select the borrow and remove options if you know the correct item ID.
+Else you can lookup using our find item feature.
+
+I want to go to Mcgill to check the availability of the book
+
+UDP for calling the correct server on the client's behalf
+
+I am trying to send the return request
+
+The call to the remote server has been made 
+
+I am in MCGILL
+ The item is available 
+
+I am sending the packet
+I am open for listen
+I am in CONCORDIA
+At the end TRUE
+I am open for listen
+I am in CONCORDIA
+
+I want to go to Mcgill to verify the borrow of the book for the requested user
+
+UDP for calling the correct server on the client's behalf
+
+I am trying to send the return request
+
+The call to the remote server has been made 
+
+I am in MCGILL
+ The item is available 
+
+I am sending the packet
+I am open for listen
+I am in CONCORDIA
+At the end TRUE
+I am open for listen
+I am in CONCORDIA
+
+I want to go to Mcgill to return my book
+
+UDP for calling the correct server on the client's behalf
+
+The call to the remote server has been made 
+
+I am in MCGILL
+Find the appropriate method to be called and call that using a dummy variable
+Get back the return string convert it to byte and send it back making prefix as B
+I am after the lendholder check
+The item has been added to the library.
+
+I am sending the packet
+I am open for listen
+I am in CONCORDIA
+At the end Items matching your entry at MCGILL are:
+The item has been added to the library.
+
+I am open for listen
+I am in CONCORDIA
+
+The call to the remote server has been made 
+Items matching your entry at MCGILL are:
+The item has been added to the library.
+
+I want to go to Mcgill to borrow my book
+
+UDP for calling the correct server on the client's behalf
+
+The call to the remote server has been made 
+
+I am in MCGILL
+Find the appropriate method to be called and call that using a dummy variable
+Get back the return string convert it to byte and send it back making prefix as B
+I am inside the lending condition
+
+Lending history has been updated you have successfully borrowed. 
+The book record has been updated. 
+
+The found matches on this server B;Lending history has been updated you have successfully borrowed. 
+The book record has been updated. 
+@8081|8082 MCGILL are:
+The item has been added to the library.
+@8081|8082cessfully borrowed. 
+The book record has been updated. 
+@8081|8082|8082081|8082|8082
+I am sending the packet
+I am open for listen
+I am in CONCORDIA
+At the end Lending history has been updated you have successfully borrowed. 
+The book record has been updated. 
+
+I am open for listen
+I am in CONCORDIA
+
+Verifying the connection at CONCORDIA Library.
+The ID is connected to right server
+The ID has correct user type
+The ID is connected to right server.
+The ID has vaild user type.
+The ID has vaild user type.
+No new Messages for you. 
+Your options are: 
+1. Press 1 for borrowing an item.
+2. Press 2 for finding an item.
+3. Press 3 for returning an item
+4. Press 4 for exchanging an item you currently own with another one
+0. Press 0 for exit.
+Note: Only select the borrow and remove options if you know the correct item ID.
+Else you can lookup using our find item feature.
+
+Verifying the connection at MCGILL Library.
+The ID is connected to right server
+The ID has correct user type
+The ID is connected to right server.
+The ID has vaild user type.
+The ID has vaild user type.
+No new Messages for you. 
+Your options are: 
+1. Press 1 for borrowing an item.
+2. Press 2 for finding an item.
+3. Press 3 for returning an item
+4. Press 4 for exchanging an item you currently own with another one
+0. Press 0 for exit.
+Note: Only select the borrow and remove options if you know the correct item ID.
+Else you can lookup using our find item feature.
+
+I am inside the lending condition
+
+The item is currently not available
+Would you like to be added to the waitlist? Enter Y for Yes and N for No.
+Enter Y for Yes and N for No
+You have been sucessfully waitlisted for the item MCG1000
+Verifying the connection at MCGILL Library.
+The ID is connected to right server
+The ID has correct user type
+The ID is connected to right server.
+The ID has vaild user type.
+The ID has vaild user type.
+No new Messages for you. 
+Your options are: 
+1. Press 1 for borrowing an item.
+2. Press 2 for finding an item.
+3. Press 3 for returning an item
+4. Press 4 for exchanging an item you currently own with another one
+0. Press 0 for exit.
+Note: Only select the borrow and remove options if you know the correct item ID.
+Else you can lookup using our find item feature.
+
+Verifying the connection at CONCORDIA Library.
+The ID is connected to right server
+The ID has correct user type
+The ID is connected to right server.
+The ID has vaild user type.
+The ID has vaild user type.
+No new Messages for you. 
+Your options are: 
+1. Press 1 for borrowing an item.
+2. Press 2 for finding an item.
+3. Press 3 for returning an item
+4. Press 4 for exchanging an item you currently own with another one
+0. Press 0 for exit.
+Note: Only select the borrow and remove options if you know the correct item ID.
+Else you can lookup using our find item feature.
+
+I want to go to Mcgill to return my book
+
+UDP for calling the correct server on the client's behalf
+
+The call to the remote server has been made 
+
+I am in MCGILL
+Find the appropriate method to be called and call that using a dummy variable
+Get back the return string convert it to byte and send it back making prefix as B
+I am after the lendholder check
+Message has been added to the profile of MCGU1234
+
+Your waitlist for the item MCG1000 is clear + the item has been issued to youMCGU1234
+The book has been issued to the first waitlisted person.
+The book has been successfully returned
+
+I am sending the packet
+I am open for listen
+I am in CONCORDIA
+At the end Items matching your entry at MCGILL are:
+The book has been successfully returned
+
+I am open for listen
+I am in CONCORDIA
+
+The call to the remote server has been made 
+Items matching your entry at MCGILL are:
+The book has been successfully returned
+
+Verifying the connection at CONCORDIA Library.
+The ID is connected to right server
+The ID has correct user type
+The ID is connected to right server.
+The ID has vaild user type.
+The ID has vaild user type.
+No new Messages for you. 
+Your options are: 
+1. Press 1 for borrowing an item.
+2. Press 2 for finding an item.
+3. Press 3 for returning an item
+4. Press 4 for exchanging an item you currently own with another one
+0. Press 0 for exit.
+Note: Only select the borrow and remove options if you know the correct item ID.
+Else you can lookup using our find item feature.
+
+Verifying the connection at MCGILL Library.
+The ID is connected to right server
+The ID has correct user type
+I am after the call to the message method
+The ID is connected to right server.
+The ID has vaild user type.
+ You have new messages from the server.
+Your waitlist for the item MCG1000 is clear + the item has been issued to you
+
+Your options are: 
+1. Press 1 for borrowing an item.
+2. Press 2 for finding an item.
+3. Press 3 for returning an item
+4. Press 4 for exchanging an item you currently own with another one
+0. Press 0 for exit.
+Note: Only select the borrow and remove options if you know the correct item ID.
+Else you can lookup using our find item feature.
+
+Items matching your entry at MCGILL are:
+
+Items matching your entry at MCGILL are:
+Code: MCG1000, Name: Fifty Shades, Availability: 0
+
+Send a UDP call to other servers for this and list down their items
+
+UDP for calling the correct server on the client's behalf to 8081
+
+Items matching your entry at MCGILL are:
+Code: MCG1000, Name: Fifty Shades, Availability: 0
+The call to the remote server has been made 
+
+I am in CONCORDIA
+Find the appropriate method to be called and call that using a dummy variable
+Get back the return string convert it to byte and send it back making prefix as B
+I am sending the packet
+I am open for listen
+I am in MCGILL
+At the end Items matching your entry at CONCORDIA are:
+
+I am open for listen
+This is inside the method:Items matching your entry at CONCORDIA are:
+
+
+Here inside the end of the first call: Items matching your entry at MCGILL are:
+Code: MCG1000, Name: Fifty Shades, Availability: 0
+The call to the remote server has been made 
+Items matching your entry at CONCORDIA are:
+
+UDP for calling the correct server on the client's behalf to 8083
+
+Y;MCGU1234#Fifty Shades@8082|8083
+Items matching your entry at MCGILL are:
+Code: MCG1000, Name: Fifty Shades, Availability: 0
+The call to the remote server has been made 
+Items matching your entry at CONCORDIA are:
+The call to the remote server has been made 
+
+I am in MONTREALU
+Find the appropriate method to be called and call that using a dummy variable
+Y;MCGU1234#Fifty Shades@8082|8083NCORDIA are:
+@8082|8081GILL are:
+The book has been successfully returned
+@8081|8082dated you have successfully borrowed. 
+The book record has been updated. 
+@8081|8082 MCGILL are:
+The item has been added to the library.
+@80
+Get back the return string convert it to byte and send it back making prefix as B
+Items matching your entry at MONTREALU are:
+
+P;Items matching your entry at MONTREALU are:
+@8082|8083NCORDIA are:
+@8082|8081GILL are:
+The book has been successfully returned
+@8081|8082dated you have successfully borrowed. 
+The book record has been updated. 
+@8081|8082 MCGILL are:
+The item has been added to the library.
+@80
+I am sending the packet
+I am open for listen
+I am in MCGILL
+At the end Items matching your entry at MONTREALU are:
+
+I am open for listen
+I am in MCGILL
+This is inside the method:Items matching your entry at MONTREALU are:
+
+Here inside the end of the second call: Items matching your entry at MCGILL are:
+Code: MCG1000, Name: Fifty Shades, Availability: 0
+The call to the remote server has been made 
+Items matching your entry at CONCORDIA are:
+The call to the remote server has been made 
+Items matching your entry at MONTREALU are:
+
+Verifying the connection at MCGILL Library.
+The ID is connected to right server
+The ID has correct user type
+The ID is connected to right server.
+The ID has vaild user type.
+The ID has vaild user type.
+No new Messages for you. 
+Your options are: 
+1. Press 1 for borrowing an item.
+2. Press 2 for finding an item.
+3. Press 3 for returning an item
+4. Press 4 for exchanging an item you currently own with another one
+0. Press 0 for exit.
+Note: Only select the borrow and remove options if you know the correct item ID.
+Else you can lookup using our find item feature.
+
+I am after the lendholder check
+Verifying the connection at MCGILL Library.
+The ID is connected to right server
+The ID has correct user type
+The ID is connected to right server.
+The ID has vaild user type.
+The ID has vaild user type.
+No new Messages for you. 
+Your options are: 
+1. Press 1 for borrowing an item.
+2. Press 2 for finding an item.
+3. Press 3 for returning an item
+4. Press 4 for exchanging an item you currently own with another one
+0. Press 0 for exit.
+Note: Only select the borrow and remove options if you know the correct item ID.
+Else you can lookup using our find item feature.
+
+Items matching your entry at MCGILL are:
+
+Items matching your entry at MCGILL are:
+
+Send a UDP call to other servers for this and list down their items
+
+UDP for calling the correct server on the client's behalf to 8081
+
+Items matching your entry at MCGILL are:
+The call to the remote server has been made 
+
+I am in CONCORDIA
+Find the appropriate method to be called and call that using a dummy variable
+Get back the return string convert it to byte and send it back making prefix as B
+I am sending the packet
+I am open for listen
+I am in MCGILL
+At the end Items matching your entry at CONCORDIA are:
+
+I am open for listen
+This is inside the method:Items matching your entry at CONCORDIA are:
+
+
+Here inside the end of the first call: Items matching your entry at MCGILL are:
+The call to the remote server has been made 
+Items matching your entry at CONCORDIA are:
+
+UDP for calling the correct server on the client's behalf to 8083
+
+Y;MCGU1000#Fifty Shades@8082|8083
+Items matching your entry at MCGILL are:
+The call to the remote server has been made 
+Items matching your entry at CONCORDIA are:
+The call to the remote server has been made 
+
+I am in MONTREALU
+Find the appropriate method to be called and call that using a dummy variable
+Y;MCGU1000#Fifty Shades@8082|8083NCORDIA are:
+@8082|8081NTREALU are:
+@8082|8083NCORDIA are:
+@8082|8081GILL are:
+The book has been successfully returned
+@8081|8082dated you have successfully borrowed. 
+The book record has been updated. 
+@8081|8082 MCGILL ar
+Get back the return string convert it to byte and send it back making prefix as B
+Items matching your entry at MONTREALU are:
+
+P;Items matching your entry at MONTREALU are:
+@8082|8083NCORDIA are:
+@8082|8081NTREALU are:
+@8082|8083NCORDIA are:
+@8082|8081GILL are:
+The book has been successfully returned
+@8081|8082dated you have successfully borrowed. 
+The book record has been updated. 
+@8081|8082 MCGILL ar
+I am sending the packet
+I am open for listen
+I am in MCGILL
+At the end Items matching your entry at MONTREALU are:
+
+I am open for listen
+I am in MCGILL
+This is inside the method:Items matching your entry at MONTREALU are:
+
+Here inside the end of the second call: Items matching your entry at MCGILL are:
+The call to the remote server has been made 
+Items matching your entry at CONCORDIA are:
+The call to the remote server has been made 
+Items matching your entry at MONTREALU are:
+
+Verifying the connection at MCGILL Library.
+The ID is connected to right server
+The ID has correct user type
+The ID is connected to right server.
+The ID has vaild user type.
+The ID has vaild user type.
+No new Messages for you. 
+Your options are: 
+1. Press 1 for borrowing an item.
+2. Press 2 for finding an item.
+3. Press 3 for returning an item
+4. Press 4 for exchanging an item you currently own with another one
+0. Press 0 for exit.
+Note: Only select the borrow and remove options if you know the correct item ID.
+Else you can lookup using our find item feature.
+
+Items matching your entry at MCGILL are:
+
+Items matching your entry at MCGILL are:
+
+Send a UDP call to other servers for this and list down their items
+
+UDP for calling the correct server on the client's behalf to 8081
+
+Items matching your entry at MCGILL are:
+The call to the remote server has been made 
+
+I am in CONCORDIA
+Find the appropriate method to be called and call that using a dummy variable
+Get back the return string convert it to byte and send it back making prefix as B
+I am sending the packet
+I am open for listen
+I am in MCGILL
+At the end Items matching your entry at CONCORDIA are:
+
+I am open for listen
+This is inside the method:Items matching your entry at CONCORDIA are:
+
+
+Here inside the end of the first call: Items matching your entry at MCGILL are:
+The call to the remote server has been made 
+Items matching your entry at CONCORDIA are:
+
+UDP for calling the correct server on the client's behalf to 8083
+
+Y;MCGU1000#Fifty Shades@8082|8083
+Items matching your entry at MCGILL are:
+The call to the remote server has been made 
+Items matching your entry at CONCORDIA are:
+The call to the remote server has been made 
+
+I am in MONTREALU
+Find the appropriate method to be called and call that using a dummy variable
+Y;MCGU1000#Fifty Shades@8082|8083NCORDIA are:
+@8082|8081NTREALU are:
+@8082|8083NCORDIA are:
+@8082|8081NTREALU are:
+@8082|8083NCORDIA are:
+@8082|8081GILL are:
+The book has been successfully returned
+@8081|8082dated you have successfully borrowed. 
+The book
+Get back the return string convert it to byte and send it back making prefix as B
+Items matching your entry at MONTREALU are:
+
+P;Items matching your entry at MONTREALU are:
+@8082|8083NCORDIA are:
+@8082|8081NTREALU are:
+@8082|8083NCORDIA are:
+@8082|8081NTREALU are:
+@8082|8083NCORDIA are:
+@8082|8081GILL are:
+The book has been successfully returned
+@8081|8082dated you have successfully borrowed. 
+The book
+I am sending the packet
+I am open for listen
+I am in MCGILL
+At the end Items matching your entry at MONTREALU are:
+
+I am open for listen
+I am in MCGILL
+This is inside the method:Items matching your entry at MONTREALU are:
+
+Here inside the end of the second call: Items matching your entry at MCGILL are:
+The call to the remote server has been made 
+Items matching your entry at CONCORDIA are:
+The call to the remote server has been made 
+Items matching your entry at MONTREALU are:
+
+I am open for listen
+I am open for listen
+I am open for listen
+I am open for listen
+I am open for listen
+I am open for listen
+Verifying the connection at MCGILL Library.
+The ID is connected to right server
+The ID has correct user type
+The ID is connected to right server.
+The ID has vaild user type.
+The ID has vaild user type.
+No new Messages for you. 
+Your options are: 
+1. Press 1 for borrowing an item.
+2. Press 2 for finding an item.
+3. Press 3 for returning an item
+4. Press 4 for exchanging an item you currently own with another one
+0. Press 0 for exit.
+Note: Only select the borrow and remove options if you know the correct item ID.
+Else you can lookup using our find item feature.
+
+I am inside the lending condition
+
+Lending history has been updated you have successfully borrowed. 
+The book record has been updated. 
+
+Verifying the connection at CONCORDIA Library.
+The ID is connected to right server
+The ID has correct user type
+The ID is connected to right server.
+The ID has vaild user type.
+The ID has vaild user type.
+No new Messages for you. 
+Your options are: 
+1. Press 1 for borrowing an item.
+2. Press 2 for finding an item.
+3. Press 3 for returning an item
+4. Press 4 for exchanging an item you currently own with another one
+0. Press 0 for exit.
+Note: Only select the borrow and remove options if you know the correct item ID.
+Else you can lookup using our find item feature.
+
+I am inside the lending condition
+
+Lending history has been updated you have successfully borrowed. 
+The book record has been updated. 
+
+Verifying the connection at CONCORDIA Library.
+The ID is connected to right server
+The ID has correct user type
+The ID is connected to right server.
+The ID has vaild user type.
+The ID has vaild user type.
+No new Messages for you. 
+Your options are: 
+1. Press 1 for borrowing an item.
+2. Press 2 for finding an item.
+3. Press 3 for returning an item
+4. Press 4 for exchanging an item you currently own with another one
+0. Press 0 for exit.
+Note: Only select the borrow and remove options if you know the correct item ID.
+Else you can lookup using our find item feature.
+
+I want to go to Mcgill to borrow my book
+
+UDP for calling the correct server on the client's behalf
+
+The call to the remote server has been made 
+
+I am in MCGILL
+Find the appropriate method to be called and call that using a dummy variable
+Get back the return string convert it to byte and send it back making prefix as B
+I am inside the lending condition
+
+The item is currently not available
+Would you like to be added to the waitlist? Enter Y for Yes and N for No.
+Enter Y for Yes and N for No
+The found matches on this server B;The item is currently not available
+Would you like to be added to the waitlist? Enter Y for Yes and N for No.
+Enter Y for Yes and N for No@8081|8082
+I am sending the packet
+I am in CONCORDIA
+I am open for listen
+At the end The item is currently not available
+Would you like to be added to the waitlist? Enter Y for Yes and N for No.
+Enter Y for Yes and N for No
+I am open for listen
+I am in CONCORDIA
+
+You have been sucessfully waitlisted for the item MCG1000
+Verifying the connection at MCGILL Library.
+The ID is connected to right server
+The ID has correct user type
+The ID is connected to right server.
+The ID has vaild user type.
+The ID has vaild user type.
+No new Messages for you. 
+Your options are: 
+1. Press 1 for borrowing an item.
+2. Press 2 for finding an item.
+3. Press 3 for returning an item
+4. Press 4 for exchanging an item you currently own with another one
+0. Press 0 for exit.
+Note: Only select the borrow and remove options if you know the correct item ID.
+Else you can lookup using our find item feature.
+
+I am inside the lending condition
+
+You already have a copy of this item
+Verifying the connection at CONCORDIA Library.
+The ID is connected to right server
+The ID has correct user type
+The ID is connected to right server.
+The ID has vaild user type.
+The ID has vaild user type.
+No new Messages for you. 
+Your options are: 
+1. Press 1 for borrowing an item.
+2. Press 2 for finding an item.
+3. Press 3 for returning an item
+4. Press 4 for exchanging an item you currently own with another one
+0. Press 0 for exit.
+Note: Only select the borrow and remove options if you know the correct item ID.
+Else you can lookup using our find item feature.
+
+Lending history has been updated. 
+The book record is updated. The item has been successfully borrowed by you.
+
+Verifying the connection at CONCORDIA Library.
+The ID is connected to right server
+The ID has correct user type
+The ID is connected to right server.
+The ID has vaild user type.
+The ID has vaild user type.
+No new Messages for you. 
+Your options are: 
+1. Press 1 for borrowing an item.
+2. Press 2 for finding an item.
+3. Press 3 for returning an item
+4. Press 4 for exchanging an item you currently own with another one
+0. Press 0 for exit.
+Note: Only select the borrow and remove options if you know the correct item ID.
+Else you can lookup using our find item feature.
+
+I want to go to Mcgill to check the availability of the book
+
+UDP for calling the correct server on the client's behalf
+
+I am trying to send the return request
+
+The call to the remote server has been made 
+
+I am in MCGILL
+ The item is not available 
+
+I am sending the packet
+I am open for listen
+I am in CONCORDIA
+At the end FALSE
+I am open for listen
+I am in CONCORDIA
+
+I am open for listen
+I am open for listen
+I am open for listen

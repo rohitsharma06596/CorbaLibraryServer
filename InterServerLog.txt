@@ -1,0 +1,279 @@
+I am waiting to receive a packet
+I received the packet from: 64891
+F;CONU1234#MCG1001$1@8081|8082
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64892
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64891
+I am inside the right condition
+Sending this packet to8082
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64892
+G;TRUE@8081|8082 been updated you have successfully borrowed. 
+The book record has been updated. 
+@8081|8082|8082
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64891
+I am inside the right condition
+Sending this packet to8082
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64892
+K;TRUE@8081|8082 you have successfully borrowed. 
+The book record has been updated. 
+@8081|8082|8082081|8082|8082
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64891
+I am inside the right condition
+Sending this packet to8082
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64892
+T;Items matching your entry at MCGILL are:
+The item has been added to the library.
+@8081|8082cessfully borrowed. 
+The book record has been updated. 
+@8081|8082|8082081|8082|8082
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64891
+F;CONU1234#MCG1000$1@8081|8082 MCGILL are:
+The item has been added to the library.
+@8081|8082cessfully borrowed. 
+The book record has been updated. 
+@8081|8082|8082081|8082|8082
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64892
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I am waiting to receive a packet
+I received the packet from: 64905
+F;CONU1234#MCG1001$1@8081|8082
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64906
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64905
+I am inside the right condition
+Sending this packet to8082
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64906
+G;TRUE@8081|8082 been updated you have successfully borrowed. 
+The book record has been updated. 
+@8081|8082|8082
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64905
+I am inside the right condition
+Sending this packet to8082
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64906
+K;TRUE@8081|8082 you have successfully borrowed. 
+The book record has been updated. 
+@8081|8082|8082081|8082|8082
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64905
+I am inside the right condition
+Sending this packet to8082
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64906
+T;Items matching your entry at MCGILL are:
+The item has been added to the library.
+@8081|8082cessfully borrowed. 
+The book record has been updated. 
+@8081|8082|8082081|8082|8082
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64905
+F;CONU1234#MCG1000$1@8081|8082 MCGILL are:
+The item has been added to the library.
+@8081|8082cessfully borrowed. 
+The book record has been updated. 
+@8081|8082|8082081|8082|8082
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64906
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64905
+I am inside the right condition
+Sending this packet to8082
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64906
+T;Items matching your entry at MCGILL are:
+The book has been successfully returned
+@8081|8082dated you have successfully borrowed. 
+The book record has been updated. 
+@8081|8082 MCGILL are:
+The item has been added to the library.
+@8081|8082cessfully borrow
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64906
+I am inside the right condition
+Sending this packet to8081
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64905
+P;Items matching your entry at CONCORDIA are:
+@8082|8081GILL are:
+The book has been successfully returned
+@8081|8082dated you have successfully borrowed. 
+The book record has been updated. 
+@8081|8082 MCGILL are:
+The item has been added to the library.
+@80
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64906
+I am inside the right condition
+Sending this packet to8083
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64907
+P;Items matching your entry at MONTREALU are:
+@8082|8083NCORDIA are:
+@8082|8081GILL are:
+The book has been successfully returned
+@8081|8082dated you have successfully borrowed. 
+The book record has been updated. 
+@8081|8082 MCGILL are:
+The item has been ad
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64906
+I am inside the right condition
+Sending this packet to8081
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64905
+P;Items matching your entry at CONCORDIA are:
+@8082|8081NTREALU are:
+@8082|8083NCORDIA are:
+@8082|8081GILL are:
+The book has been successfully returned
+@8081|8082dated you have successfully borrowed. 
+The book record has been updated. 
+@8081|8082 MCGILL ar
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64906
+I am inside the right condition
+Sending this packet to8083
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64907
+P;Items matching your entry at MONTREALU are:
+@8082|8083NCORDIA are:
+@8082|8081NTREALU are:
+@8082|8083NCORDIA are:
+@8082|8081GILL are:
+The book has been successfully returned
+@8081|8082dated you have successfully borrowed. 
+The book record has been updated
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64906
+I am inside the right condition
+Sending this packet to8081
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64905
+P;Items matching your entry at CONCORDIA are:
+@8082|8081NTREALU are:
+@8082|8083NCORDIA are:
+@8082|8081NTREALU are:
+@8082|8083NCORDIA are:
+@8082|8081GILL are:
+The book has been successfully returned
+@8081|8082dated you have successfully borrowed. 
+The book
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64906
+I am inside the right condition
+Sending this packet to8083
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64907
+P;Items matching your entry at MONTREALU are:
+@8082|8083NCORDIA are:
+@8082|8081NTREALU are:
+@8082|8083NCORDIA are:
+@8082|8081NTREALU are:
+@8082|8083NCORDIA are:
+@8082|8081GILL are:
+The book has been successfully returned
+@8081|8082dated you have successful
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I am waiting to receive a packet
+I received the packet from: 64936
+F;CONU1234#MCG1000$1@8081|8082
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64937
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64936
+I am inside the right condition
+Sending this packet to8082
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I received the packet from: 64937
+G;FALSE@8081|8082ly not available
+Would you like to be added to the waitlist? Enter Y for Yes and N for No.
+Enter Y for Yes and N for No@8081|80828082
+I am sending the packet
+I am going for another iteration
+I am waiting to receive a packet
+I am waiting to receive a packet
